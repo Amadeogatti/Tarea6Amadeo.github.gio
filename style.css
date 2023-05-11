@@ -1,0 +1,112 @@
+/* HEADER */
+header{
+    text-align: center;
+    background-color: rgb(189, 255, 211);
+    margin: 2,5%;
+   
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    -webkit-text-fill-color: rgb(2, 82, 29);
+-webkit-text-stroke: 1px black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 350%;
+}
+/* NAV */
+nav{
+    background-color: rgb(2, 82, 29);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+flex-direction: row;
+text-decoration: none; 
+}
+a{
+    color: white;
+}
+/* MAIN */
+.horarios{
+     background-color: white;
+     margin-left: 540px;
+}
+.form{
+font-family: Arial, Helvetica, sans-serif;
+    border-color: blue;
+    background-color: black;
+    color: white;
+    width: 800px;
+    text-align: center;
+ margin-left: 270px;
+ border-style: dashed;
+ border-color: white;
+ margin-bottom: 20px;
+ margin-top: 10px;
+}
+
+main{
+    text-align: center;
+   background-image: url(fondomain.jpeg.jpeg);
+   background-size: 50%;
+}
+
+   .h1{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    -webkit-text-fill-color: rgb(2, 82, 29);
+-webkit-text-stroke: 1px black;
+
+}
+
+.dia1{
+    color: rgb(33, 118, 134);
+    font-size: 150%;
+}
+.dia2{
+    color: rgb(134, 33, 120);
+    font-size: 150%;
+}
+
+.dia3{
+    color: rgb(134, 33, 38);
+    font-size: 150%;
+}
+.horario1{
+    color: rgb(33, 118, 134);
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.horario2{
+    color: rgb(134, 33, 120);
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.horario3{
+    color: rgb(134, 33, 38);
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.tabla{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200%;
+}
+
+/* FOOTER */
+footer{
+    
+    background-color: rgb(2, 82, 29) ;
+    margin: 2,5%;
+    text-align: center
+}
+.thanks{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 150%;
+}
+.copyright{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 90%;
+}
